@@ -1,0 +1,21 @@
+header{
+    background-color: #9AD0EC;
+    font-size: 4rem;
+    text-align: center;
+    padding:2rem 0rem;
+
+    font-family: 'Lobster', cursive;
+}
+
+.main-container{
+    display: grid;
+    height:100vh;
+
+    grid-template-columns: 1fr 2fr 1fr;
+}
+
+.img-section{
+  
+    overflow-y: scroll;
+}
+

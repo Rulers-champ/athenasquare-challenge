@@ -1,0 +1,13 @@
+*{
+    padding:0;
+    margin:0;
+}
+
+html{
+    scrollbar-width:thin;
+}
+
+h1{
+    font-family: 'Nunito', sans-serif;
+    font-size:2.4rem;
+}
